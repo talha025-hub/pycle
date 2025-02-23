@@ -1,4 +1,4 @@
-# pycle
+# pycalc
 A python calculator project to be cloned by CS 193 students
 
 ## How to Use
